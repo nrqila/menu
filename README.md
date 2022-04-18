@@ -1,2 +1,2 @@
 # menu
- belajar buat menu
+ buat menu
